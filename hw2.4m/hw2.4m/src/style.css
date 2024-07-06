@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./photo_5199562948878653949_y.jpg);
+}
+
+.wrapper{
+    width: 400px;
+    margin: 150px auto;
+}
+
+.form input{
+    width: 80%;
+    padding: 10px;
+}
+
+.form button{
+    width: 20%;
+    padding: 10px;
+}
+
+
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
